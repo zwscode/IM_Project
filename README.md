@@ -14,4 +14,4 @@
 
 #功能演示视频地址  
 
-http://player.youku.com/embed/XMTQ5ODEyNTczMg==
+*http://player.youku.com/embed/XMTQ5ODEyNTczMg==
