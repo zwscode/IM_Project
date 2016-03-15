@@ -13,4 +13,5 @@
 服务器端的数据都存储在mysql中
 
 #功能演示视频  
+<iframe height=498 width=510 src="http://player.youku.com/embed/XNjcyMDU4Njg0" frameborder=0 allowfullscreen></iframe>
 <iframe height=498 width=510 src="http://player.youku.com/embed/XMTQ5ODEyNTczMg==" frameborder=0 allowfullscreen></iframe>
