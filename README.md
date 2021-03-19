@@ -13,7 +13,3 @@
 #数据存储  
 
 服务器端的数据都存储在mysql中
-
-#功能演示视频地址  
-
-http://player.youku.com/embed/XMTQ5ODEyNTczMg==
